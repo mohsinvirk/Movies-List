@@ -15,7 +15,7 @@ I used JSON data instead of using the moviedb API.\
 `yarn test` will run a test suit. basically 2 tests. one is unit test and other is a snapshot.\
 `npx cypress open` will open cypress e2e test.\
 
-##Some screenshots of the app
+## Some screenshots of the app
 
 ![image](https://user-images.githubusercontent.com/21056846/191794701-b0cbb584-0034-41bf-b98e-9191ffcbe94d.png)
 
